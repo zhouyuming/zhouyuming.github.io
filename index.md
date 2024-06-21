@@ -1,10 +1,18 @@
 # 周玉明的个人博客
 
-## 李杏巍是傻瓜
+[个人GitHub仓库地址](https://github.com/zhouyuming)
 
 ```C
-printf("Hello World!!!")
+#include <stdio.h>
+
+int main(int argc, char* [] argv)
+{
+  printf("Hello World!!!");
+  return 0;
+}
 ```
+
+
 
 [学习笔记](学习笔记/README.md)
 
