@@ -18,7 +18,7 @@ int main(int argc, char* [] argv)
 
 [学习笔记](学习笔记/README.md)
 
-[文档写作](文档写作/01.GitHub Pages Markdown文档写作.md)
+[文档写作](文档写作/01.GitHub_Pages_Markdown文档写作.md)
 
 <div align="center"><img width="200" height="auto" src="https://www.bobinsun.cn/assets/images/logo-top.jpg"/></div>
 
