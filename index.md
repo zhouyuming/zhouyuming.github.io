@@ -1,4 +1,4 @@
-# 周玉明的个人博客
+# 周玉明的个人主页
 
 <div align="left"><img width="200" height="auto" src="https://profile-avatar.csdnimg.cn/3ac1c470c4764f8fa180b68b092a632b_zym326975.jpg"/></div>
 
